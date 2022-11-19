@@ -1,0 +1,12 @@
+{
+"_id": "0198213c192cb2c244cc2433f1802b91",
+"_rev": "1-cde2dd17c519394dfeb774730c495f8b",
+"topic": :iot-2/type/SWMSMC/id/ibmproject/evt/data/fmt/json",
+"payload": {
+	"Warning!!": "244.97left"
+},
+:deviceId": "ibmproject",
+"deviceType": "SWMSMC",
+"eventType": "data",
+"format": "json",
+}
